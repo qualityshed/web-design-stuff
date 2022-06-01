@@ -1,2 +1,2 @@
-# web-design-challenges
-The code for the web design challenges I do.
+# web-design-stuff
+Random stuff I code
